@@ -1,14 +1,6 @@
-#!/usr/bin/env python3
-# Name: Rahul Panchal
-# Usage:
-#   python rahul_panchal.py <input.pdf> <output.json>
-
 import sys, re, json, io, os
 from datetime import datetime
 from collections import Counter
-
-# Optional deps: pdfplumber (or pdfminer.six), pillow, pytesseract, dateparser
-# pip install pdfplumber pillow pytesseract dateparser
 
 TITLE_HINTS = re.compile(r'\b(agreement|master|services|license|lease|contract|statement of work)\b', re.I)
 
