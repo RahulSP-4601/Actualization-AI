@@ -29,12 +29,12 @@
         },
         {
           "text": "The CONSULTANT shall submit written progress reports with each invoice. The report should be sufficiently detailed for the Contract Manager to determine if the CONSULTANT is performing to expectations or is on schedule; to provide communication of interim findings; and to sufficiently address any difficulties or special problems encountered, so remedies can be developed.",
-          "label": "1)",
+          "label": "1.",
           "index": 4
         },
         {
           "text": "The CONSULTANT’s Project Manager shall meet with the COMMISSION’s Contract Manager, as needed, to discuss progress on the contract.",
-          "label": "2)",
+          "label": "2.",
           "index": 5
         }
       ]
@@ -84,7 +84,7 @@
           "index": 7
         },
         {
-          "text": "The CONSULTANT will be reimbursed after receipt by the COMMISSION’s Contract Manager of itemized invoices. Invoices shall be submitted no later than 45calendar days after the performance of work for which the CONSULTANT is billing. Invoices shall be mailed to the COMMISSION’s Contract Manager at the following address: SCCRTC, 1523 Pacific Ave, Santa Cruz, CA, 95060 The invoices must include the following information:",
+          "text": "The CONSULTANT will be reimbursed after receipt by the COMMISSION’s Contract Manager of itemized invoices. Invoices shall be submitted no later than 45 calendar days after the performance of work for which the CONSULTANT is billing. Invoices shall be mailed to the COMMISSION’s Contract Manager at the following address: SCCRTC, 1523 Pacific Ave, Santa Cruz, CA, 95060 The invoices must include the following information:",
           "label": "H.",
           "index": 8
         },
@@ -199,22 +199,22 @@
         },
         {
           "text": "Workers’ Compensation in the minimum statutorily required coverage amounts. This insurance coverage shall not be required if the CONSULTANT has no employees and certifies to this fact by initialing here .",
-          "label": "1)",
+          "label": "1.",
           "index": 2
         },
         {
           "text": "Automobile Liability Insurance for each of CONSULTANT’S vehicles used in the performance of this Agreement, including owned, non-owned (e.g. owned by CONSULTANT’S employees), leased or hired vehicles, in the minimum amount of $1,000,000 combined single limit per occurrence for bodily injury and property damage. This insurance coverage shall not be required if vehicle use by the CONSULTANT is not a material part of performance of this Agreement and CONSULTANT and COMMISSION both certify to this fact by initialing here / .",
-          "label": "2)",
+          "label": "2.",
           "index": 3
         },
         {
           "text": "Comprehensive or Commercial General Liability Insurance coverage in the minimum amount of one million dollars ($1,000,000) combined single limit (CSL), including coverage for: (a) bodily injury, (b) personal injury, (c) broad form property damage, (d) contractual liability, and (e) cross-liability.",
-          "label": "3)",
+          "label": "3.",
           "index": 4
         },
         {
           "text": "Professional Liability Insurance in the minimum amount of one million dollars ($1,000,000) combined single limit, if, and only if, this Subparagraph is initialed by CONSULTANT and COMMISSION __ / .",
-          "label": "4)",
+          "label": "4.",
           "index": 5
         },
         {
@@ -224,42 +224,42 @@
         },
         {
           "text": "If any insurance coverage required in this Agreement is provided on a “Claims Made” rather than “Occurrence” form, CONSULTANT agrees to maintain the required coverage for a period of three (3) years after the expiration of this Agreement (hereinafter “post agreement coverage”) and any extensions thereof. CONSULTANT may maintain the required post agreement coverage by renewal or purchase of prior acts or tail coverage. This provision is contingent upon post agreement coverage being both available and reasonably affordable in relation to the coverage provided during the term of this Agreement. For purposes of interpreting this requirement, a cost not exceeding 100% of the last annual policy premium during the term of this Agreement in order to purchase prior acts or tail coverage for post agreement coverage shall be deemed to be reasonable. The COMMISSION will not be responsible for any premiums or assessments on the policy.",
-          "label": "1)",
+          "label": "1.",
           "index": 7
         },
         {
           "text": "All required Automobile and Comprehensive or Commercial General Liability Insurance shall be endorsed to contain the following clause: “Santa Cruz County Regional Transportation Commission, its officials, employees, agents and volunteers are added as an additional insured as respects the operations and activities of, or on behalf of, the named insured performed under Agreement with the Commission.”",
-          "label": "2)",
+          "label": "2.",
           "index": 8
         },
         {
           "text": "All required insurance policies shall be endorsed to contain the following clause: “This insurance shall not be canceled until after thirty (30) days prior written notice has been given to: Santa Cruz County Regional Transportation Commission Attn: Yesenia Parra 1523 Pacific Avenue Santa Cruz, CA 95060",
-          "label": "3)",
+          "label": "3.",
           "index": 9
         },
         {
           "text": "CONSULTANT agrees to provide its insurance broker(s) with a full copy of these insurance provisions and provide COMMISSION on or before the effective date of this Agreement with Certificates of Insurance for all required coverages. All Certificates of Insurance shall be delivered or sent to: Santa Cruz County Regional Transportation Commission Attn: Yesenia Parra 1523 Pacific Avenue Santa Cruz, CA 95060",
-          "label": "4)",
+          "label": "4.",
           "index": 10
         },
         {
           "text": "The CONSULTANT agrees that the insurance herein provided for, shall be in effect at all times during the term of this contract. In the event said insurance coverage expires at any time or times during the term of this contract, the CONSULTANT agrees to provide at least thirty (30) days prior notice to said expiration date; and a new Certificate of Insurance evidencing insurance coverage as provided for herein, for not less than either the remainder of the term of the contract, or for a period of not less than one (1) year. New Certificates of Insurance are subject to the approval of the COMMISSION. In the event the CONSULTANT fails to keep in effect at all times insurance coverage as herein provided, the COMMISSION may, in addition to any other remedies it may have, terminate this Agreement upon occurrence of such event.",
-          "label": "5)",
+          "label": "5.",
           "index": 11
         },
         {
           "text": "If any insurance policy of CONSULTANT required by this document includes language conditioning the insurer’s legal obligation to defend or indemnify COMMISSION on the performance of any act(s) by the named insured, then said insurance policy, by endorsement, shall also name the COMMISSION as a named insured. Notwithstanding the foregoing, both the CONSULTANT and its insurers agree that by naming the COMMISSION as a named insured, the COMMISSION may at its sole direction, but is not obligated to, perform any act required by the named insured under said insurance policies.",
-          "label": "6)",
+          "label": "6.",
           "index": 12
         },
         {
           "text": "CONSULTANT shall do all things required to be performed by it pursuant to its insurance policies including but not limited to paying within five (5) work days, all deductibles and self-insured retentions (SIR) required to be paid under any insurance policy that may provide defense or indemnity coverage to COMMISSION or any additional insured.",
-          "label": "7)",
+          "label": "7.",
           "index": 13
         },
         {
           "text": "CONSULTANT shall cause the foregoing provisions to be inserted in all subcontracts for any work covered under this Agreement by a subconsultant compensated more than $50,000 and employing more than fifteen (15) employees, provided that the foregoing provisions shall not apply to contracts or subcontracts for standard commercial supplies or raw materials.",
-          "label": "8)",
+          "label": "8.",
           "index": 14
         }
       ]
@@ -280,7 +280,7 @@
       "number": "8",
       "clauses": [
         {
-          "text": "EQUAL EMPLOYMENT OPPORTUNITY. During and in relation to the performance of this Agreement, CONSULTANT agrees to the following: The CONSULTANT shall not discriminate or permit discrimination against any employee or applicant for employment in any manner prohibited by Federal, State and local laws, including but not limited to race, color, gender, religion, national origin, ancestry, physical or mental disability, medical condition, marital status, sexual orientation, age (over 18), veteran status, pregnancy, or any other non-merit factor unrelated to job duties. Such action shall include, but not be limited to, the following: recruitment; advertising, layoff or termination; rates of pay or other forms of compensation; and selection for training (including apprenticeship), employment, upgrading, demotion, or transfer. The CONSULTANT agrees to post in conspicuous places, available to employees and applicants for employment, notice setting forth the provisions of this nond iscrimination clause. CONSULTANT shall comply fully with all federal, State and local laws and regulations which prohibit discrimination. The CONSULTANT’s signature affixed herein, and dated, shall constitute a certification under penalty of perjury under the laws of the State of California that the CONSULTANT has, unless exempt, complied with, the nondiscrimination program requirements of Government Code Section 12990 and Title 2, California Administrative Code, Section 8103. In the event of CONSULTANT’S non-compliance with the non-discrimination clauses of this Agreement or with any of the said rules, regulations or orders the COMMISSION may cancel, terminate or suspend the Agreement in whole or in part. CONSULTANT may also be declared ineligible for further agreements with the COMMISSION.",
+          "text": "EQUAL EMPLOYMENT OPPORTUNITY. During and in relation to the performance of this Agreement, CONSULTANT agrees to the following: The CONSULTANT shall not discriminate or permit discrimination against any employee or applicant for employment in any manner prohibited by Federal, State and local laws, including but not limited to race, color, gender, religion, national origin, ancestry, physical or mental disability, medical condition, marital status, sexual orientation, age (over 18), veteran status, pregnancy, or any other non-merit factor unrelated to job duties. Such action shall include, but not be limited to, the following: recruitment; advertising, layoff or termination; rates of pay or other forms of compensation; and selection for training (including apprenticeship), employment, upgrading, demotion, or transfer. The CONSULTANT agrees to post in conspicuous places, available to employees and applicants for employment, notice setting forth the provisions of this nondiscrimination clause. CONSULTANT shall comply fully with all federal, State and local laws and regulations which prohibit discrimination. The CONSULTANT’s signature affixed herein, and dated, shall constitute a certification under penalty of perjury under the laws of the State of California that the CONSULTANT has, unless exempt, complied with, the nondiscrimination program requirements of Government Code Section 12990 and Title 2, California Administrative Code, Section 8103. In the event of CONSULTANT’S non-compliance with the non-discrimination clauses of this Agreement or with any of the said rules, regulations or orders the COMMISSION may cancel, terminate or suspend the Agreement in whole or in part. CONSULTANT may also be declared ineligible for further agreements with the COMMISSION.",
           "label": "",
           "index": 0
         }
@@ -541,7 +541,7 @@
           "index": 1
         },
         {
-          "text": "COMPLETE AGREEMENT, INCLUDING ATTACHMENTS. This Agreement includes all exhibits, attachments, and documents incorporated herein and made applicable by reference, constitutes the complete and exclusive statement of the terms and conditions of the Agreement between COMMISSION and CONSULTANT, and supersedes all prior representations, understandings and communications. The invalidity in whole or in part of any term or condition of this Agreement shall not affect the validity of other terms or conditions. The COMMISSION’s waiver of CONSULTANT's performance of any term(s) or condition(s) of this Agreement shall not be construed as a waiver for any future performance of such term(s) or conditions(s",
+          "text": "COMPLETE AGREEMENT, INCLUDING ATTACHMENTS. This Agreement includes all exhibits, attachments, and documents incorporated herein and made applicable by reference, constitutes the complete and exclusive statement of the terms and conditions of the Agreement between COMMISSION and CONSULTANT, and supersedes all prior representations, understandings and communications. The invalidity in whole or in part of any term or condition of this Agreement shall not affect the validity of other terms or conditions. The COMMISSION’s waiver of CONSULTANT's performance of any term(s) or condition(s) of this Agreement shall not be construed as a waiver for any future performance of such term(s) or conditions(s)",
           "label": "C.",
           "index": 2
         },

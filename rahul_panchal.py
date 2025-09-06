@@ -256,8 +256,6 @@ def split_sections_global(full_text: str) -> list[dict]:
         sections.append({"title": title_clean, "number": str(num), "clauses": clauses})
     return sections
 
-# ---------- Fallback (line-based) ----------
-
 def split_sections(all_lines: list[str]) -> list[dict]:
     sections = []
     i = 0
@@ -291,8 +289,6 @@ def _match_section_header(line: str):
             return {"num": m.groupdict().get("num"), "title": m.groupdict().get("title")}
     return None
 
-# ---------- Clause splitting helpers ----------
-
 _MERGE_TRIGGER_RX = re.compile(r'(?i)(including|includes|include|as follows)\s*:?\s*$')
 
 def _split_inline_numeric_enums(text: str):
@@ -318,7 +314,6 @@ def _is_letter_label(label: str) -> bool:
     return bool(re.match(r'^[A-Z][.)]$', label or ""))
 
 def _prefer_style_like(label: str) -> str:
-    # Return ')' if label uses that, else '.'
     return ')' if label and label.endswith(')') else '.'
 
 def _postfix_enumeration_fixes(clauses: list[dict]) -> list[dict]:
@@ -343,7 +338,7 @@ def _postfix_enumeration_fixes(clauses: list[dict]) -> list[dict]:
         if num is not None:
             seen_since_letter.add(num)
             continue
-        # unlabeled; check next numeric 'n)' with n>=2
+
         if i+1 < len(clauses):
             nxt_lab = clauses[i+1]["label"]
             nxt_num = _label_to_int(nxt_lab)
@@ -360,9 +355,7 @@ def _postfix_enumeration_fixes(clauses: list[dict]) -> list[dict]:
         k = _label_to_int(curr["label"])
         m = _label_to_int(nextc["label"])
         if k is not None and m is not None and m >= k + 2:
-            # try to split curr on first semicolon
             text = curr["text"]
-            # avoid splitting if there's no semicolon to indicate two items joined
             split_pos = text.find(";")
             if split_pos != -1 and split_pos < len(text) - 1:
                 left = text[:split_pos].strip()
@@ -376,16 +369,13 @@ def _postfix_enumeration_fixes(clauses: list[dict]) -> list[dict]:
                         "index": curr["index"] + 1
                     }
                     clauses.insert(i+1, new_clause)
-                    # do not advance i to allow cascading fixes if multiple gaps
                     continue
         i += 1
 
-    # Re-index
     for idx, c in enumerate(clauses):
         c["index"] = idx
     return clauses
 
-# ---------- Clause splitting within each section ----------
 
 def split_clauses_paragraphs(section_text: str, sec_num: str|None=None, sec_title: str|None=None) -> list[dict]:
     paras = [p.strip() for p in re.split(r'\n\s*\n+', section_text) if p.strip()]
