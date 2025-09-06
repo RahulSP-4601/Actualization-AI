@@ -6,6 +6,7 @@
 #
 # Create a .env file with your OPENAI_API_KEY and optional OPENAI_MODEL. 
 
+
 import os
 import sys
 import json
