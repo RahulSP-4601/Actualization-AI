@@ -1,0 +1,1142 @@
+{
+  "title": "The following document is a sample contract template",
+  "contract_type": "Agreement",
+  "effective_date": null,
+  "sections": [
+    {
+      "title": "Definitions",
+      "number": "1",
+      "clauses": [
+        {
+          "text": "Article 1 Definitions The following definitions apply to this Agreement:",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "\"Agreement\" means this contract document, including all attached appendices, and all applicable City Ordinances and Mandatory City Requirements which are specifically incorporated into this Agreement by reference as provided herein.",
+          "label": "1.1",
+          "index": 1
+        },
+        {
+          "text": "\"City\" or \"the City\" means the City and County of San Francisco, a municipal corporation, acting by and through both its Director of the Office of Contract Administration or the Director’s designated agent, hereinafter referred to as “Purchasing” and [insert name of department].”",
+          "label": "1.2",
+          "index": 2
+        },
+        {
+          "text": "\"CMD\" means the Contract Monitoring Division of the City.",
+          "label": "1.3",
+          "index": 3
+        },
+        {
+          "text": "\"Contractor\" or \"Consultant\" means [insert name and address of contractor].",
+          "label": "1.4",
+          "index": 4
+        },
+        {
+          "text": "\"Deliverables\" means Contractor's work product resulting from the Services that are provided by Contractor to City during the course of Contractor's performance of the Agreement, including without limitation, the work product described in the “Scope of Services” attached as Appendix A.",
+          "label": "1.5",
+          "index": 5
+        },
+        {
+          "text": "\"Effective Date\" means the date upon which the City's Controller certifies the availability of funds for this Agreement as provided in Section 3.1.",
+          "label": "1.6",
+          "index": 6
+        },
+        {
+          "text": "\"Mandatory City Requirements\" means those City laws set forth in the San Francisco Municipal Code, including the duly authorized rules, regulations, and guidelines implementing such laws, that impose specific duties and obligations upon Contractor.",
+          "label": "1.7",
+          "index": 7
+        },
+        {
+          "text": "\"Party\" and \"Parties\" mean the City and Contractor either collectively or individually.",
+          "label": "1.8",
+          "index": 8
+        },
+        {
+          "text": "\"Services\" means the work performed by Contractor under this Agreement as specifically described in the \"Scope of Services\" attached as Appendix A, including all services, labor, supervision, materials, equipment, actions and other requirements to be performed and furnished by Contractor under this Agreement.",
+          "label": "1.9",
+          "index": 9
+        }
+      ]
+    },
+    {
+      "title": "Term of the Agreement",
+      "number": "2",
+      "clauses": [
+        {
+          "text": "Article 2 Term of the Agreement",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "The term of this Agreement shall commence on the later of: (i) [insert Contractor's start date]; or (ii) the Effective Date and expire on [insert expiration date], unless earlier terminated as otherwise provided herein.  If you wish to include options for the City to extend the contract consistent with the period of the agreement anticipated in the procurement (likely the RFP), include paragraph 2.2 below. Otherwise, you may delete it.",
+          "label": "2.1",
+          "index": 1
+        },
+        {
+          "text": "The City has [number of options] options to renew the Agreement for a period of [one year or other time span] each. The City may extend this Agreement beyond the expiration date by exercising an option at the City’s sole and absolute discretion and by modifying this Agreement as provided in Section 11.5, “Modification of this Agreement.”",
+          "label": "2.2",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "Financial Matters",
+      "number": "3",
+      "clauses": [
+        {
+          "text": "Article 3 Financial Matters",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Certification of Funds; Budget and Fiscal Provisions; Termination in the Event of Non-Appropriation. This Agreement is subject to the budget and fiscal provisions of the City’s Charter. Charges will accrue only after prior written authorization certified by the Controller, and the amount of City’s obligation hereunder shall not at any time exceed the amount certified for the purpose and period stated in such advance authorization. This Agreement will terminate without penalty, liability or expense of any kind to City at the end of any fiscal year if funds are not appropriated for the next succeeding fiscal year. If funds are appropriated for a portion of the fiscal year, this Agreement will terminate, without penalty, liability or expense of any kind at the end of the term for which funds are appropriated. City has no obligation to make appropriations for this Agreement in lieu of appropriations for new or other agreements. City budget decisions are subject to the discretion of the Mayor and the Board of Supervisors. Contractor’s assumption of risk of possible non-appropriation is part of the consideration for this Agreement. THIS SECTION CONTROLS AGAINST ANY AND ALL OTHER PROVISIONS OF THIS AGREEMENT.",
+          "label": "3.1",
+          "index": 1
+        },
+        {
+          "text": "Guaranteed Maximum Costs. The City’s payment obligation to Contractor cannot at any time exceed the amount certified by City's Controller for the purpose and period stated in such certification. Absent an authorized Emergency per the City Charter or applicable Code, no City representative is authorized to offer or promise, nor is the City required to honor, any offered or promised payments to Contractor under this Agreement in excess of the certified maximum amount without the Controller having first certified the additional promised amount and the Parties having modified this Agreement as provided in Section 11.5, \"Modification of this Agreement.\"",
+          "label": "3.2",
+          "index": 2
+        },
+        {
+          "text": "Compensation.",
+          "label": "3.3",
+          "index": 3
+        },
+        {
+          "text": "Payment. Contractor shall provide an invoice to the City on a monthly basis for Services completed in the immediate preceding month, unless a different schedule is set out in Appendix B, \"Calculation of Charges.\" Compensation shall be made for Services identified in the invoice that the [insert title of department head], in his or her sole discretion, concludes has been satisfactorily performed. Payment shall be made within 30 calendar days of receipt of the invoice, unless the City notifies the Contractor that a dispute as to the invoice exists. In no event shall the amount of this Agreement exceed [insert whole dollar amount in numbers and words -- no pennies and no “.00”]. The breakdown of charges associated with this Agreement appears in Appendix B, “Calculation of Charges,” attached hereto and incorporated by reference as though fully set forth herein. A portion of payment may be withheld until conclusion of the Agreement if agreed to both parties as retainage, described in Appendix B. In no event shall City be liable for interest or late charges for any late payments.",
+          "label": "3.3.1",
+          "index": 4
+        },
+        {
+          "text": "Payment Limited to Satisfactory Services. Contractor is not entitled to any payments from City until [insert name of department] approves Services, including any furnished Deliverables, as satisfying all of the requirements of this Agreement. Payments to Contractor by City shall not excuse Contractor from its obligation to replace unsatisfactory Deliverables, including equipment, components, materials, or Services even if the unsatisfactory character of such Deliverables, equipment, components, materials, or Services may not have been apparent or detected at the time such payment was made. Deliverables, equipment, components, materials and Services that do not conform to the requirements of this Agreement may be rejected by City and in such case must be replaced by Contractor without delay at no cost to the City.",
+          "label": "3.3.2",
+          "index": 5
+        },
+        {
+          "text": "Withhold Payments. If Contractor fails to provide Services in accordance with Contractor's obligations under this Agreement, the City may withhold any and all payments due Contractor until such failure to perform is cured, and Contractor shall not stop work as a result of City's withholding of payments as provided herein.",
+          "label": "3.3.3",
+          "index": 6
+        },
+        {
+          "text": "Invoice Format. Invoices furnished by Contractor under this Agreement must be in a form acceptable to the Controller and City, and must include a unique invoice number. Payment shall be made by City as specified in 3.3.6 ,” or in such alternate manner as the Parties have mutually agreed upon in writing.",
+          "label": "3.3.4",
+          "index": 7
+        },
+        {
+          "text": "LBE Payment and Utilization Tracking System. Contractor must submit all required payment information using the online LBE Utilization Tracking System (LBEUTS) as required by CMD to enable the City to monitor Contractor's compliance with the LBE subcontracting commitments in this Agreement. Contractor shall pay its LBE subcontractors within three working days after receiving payment from the City, except as otherwise authorized by the LBE Ordinance. The Controller is not authorized to pay invoices submitted by Contractor prior to Contractor’s submission of all required CMD payment information. Failure to submit all required payment information to the LBEUTS with each payment request may result in the Controller withholding 20% of the payment due pursuant to that invoice until the required payment information is provided. Following City’s payment of an invoice, Contractor has ten calendar days to acknowledge using the online LBEUTS that all subcontractors have been paid. Contractor shall attend a LBEUTS training session. LBEUTS training session schedules are available at www.sfgov.org/lbeuts.",
+          "label": "3.3.5",
+          "index": 8
+        },
+        {
+          "text": "Getting paid for goods and/or services from the City.",
+          "label": "3.3.6",
+          "index": 9
+        },
+        {
+          "text": "All City vendors receiving new contracts, contract renewals, or contract extensions must sign up to receive electronic payments through the City's Automated Clearing House (ACH) payments service/provider. Electronic payments are processed every business day and are safe and secure. To sign up for electronic payments, visit www.sfgov.org/ach..",
+          "label": "(a)",
+          "index": 10
+        },
+        {
+          "text": "The following information is required to sign up: (i) The enroller must be their company's authorized financial representative, (ii) the company's legal name, main telephone number and all physical and remittance addresses used by the company, (iii) the company's U.S. federal employer identification number (EIN) or Social Security number (if they are a sole proprietor), and (iv) the company's bank account information, including routing and account numbers.",
+          "label": "(b)",
+          "index": 11
+        },
+        {
+          "text": "Grant Funded Contracts.",
+          "label": "3.3.7",
+          "index": 12
+        },
+        {
+          "text": "Disallowance. If Contractor requests or receives payment from City for Services, reimbursement for which is later disallowed by the State of California or United States Government, Contractor shall promptly refund the disallowed amount to City upon City’s request. At its option, City may offset the amount disallowed from any payment due or to become due to Contractor under this Agreement or any other Agreement between Contractor and City.",
+          "label": "(a)",
+          "index": 13
+        },
+        {
+          "text": "Grant Terms. The funding for this Agreement is provided in full or in part by a Federal or State Grant to the City. As part of the terms of receiving the funds, the City is required to incorporate some of the terms into this Agreement. The incorporated terms may be found in Appendix [choose C/D/E etc.], “Grant Terms.” To the extent that any Grant Term is inconsistent with any other provisions of this Agreement such that Contractor is unable to comply with both the Grant Term and the other provision(s), the Grant Term shall apply.",
+          "label": "(b)",
+          "index": 14
+        },
+        {
+          "text": "Contractor shall insert each Grant Term into each lower tier subcontract. Contractor is responsible for compliance with the Grant Terms by any subcontractor, lower-tier subcontractor or service provider.",
+          "label": "(c)",
+          "index": 15
+        },
+        {
+          "text": "Audit and Inspection of Records. Contractor agrees to maintain and make available to the City, during regular business hours, accurate books and accounting records relating to its Services. Contractor will permit City to audit, examine and make excerpts and transcripts from such books and records, and to make audits of all invoices, materials, payrolls, records or personnel and other data related to all other matters covered by this Agreement, whether funded in whole or in part under this Agreement. Contractor shall maintain such data and records in an accessible location and condition for a period of not fewer than five years after final payment under this Agreement or until after final audit has been resolved, whichever is later. The State of California or any Federal agency having an interest in the subject matter of this Agreement shall have the same rights as conferred upon City by this Section. Contractor shall include the same audit and inspection rights and record retention requirements in all subcontracts.",
+          "label": "3.4",
+          "index": 16
+        },
+        {
+          "text": "Submitting False Claims. The full text of San Francisco Administrative Code Chapter 21, Section 21.35, including the enforcement and penalty provisions, is incorporated into this Agreement. Pursuant to San Francisco Administrative Code §21.35, any contractor or subcontractor who submits a false claim shall be liable to the City for the statutory penalties set forth in that section. A contractor or subcontractor will be deemed to have submitted a false claim to the City if the contractor or subcontractor: (a) knowingly presents or causes to be presented to an officer or employee of the City a false claim or request for payment or approval;",
+          "label": "3.5",
+          "index": 17
+        },
+        {
+          "text": "knowingly makes, uses, or causes to be made or used a false record or statement to get a false claim paid or approved by the City; (c) conspires to defraud the City by getting a false claim allowed or paid by the City; (d) knowingly makes, uses, or causes to be made or used a false record or statement to conceal, avoid, or decrease an obligation to pay or transmit money or property to the City; or (e) is a beneficiary of an inadvertent submission of a false claim to the City, subsequently discovers the falsity of the claim, and fails to disclose the false claim to the City within a reasonable time after discovery of the false claim.",
+          "label": "(b)",
+          "index": 18
+        },
+        {
+          "text": "Payment of Prevailing Wages",
+          "label": "3.6",
+          "index": 19
+        },
+        {
+          "text": "Covered Services. Services to be performed by Contractor under this Agreement may involve the performance of trade work covered by the provisions of Section",
+          "label": "3.6.1",
+          "index": 20
+        },
+        {
+          "text": "6.22(e) [Prevailing Wages] of the Administrative Code (collectively, \"Covered Services\"). The provisions of Section 6.22(e) of the Administrative Code are incorporated as provisions of this Agreement as if fully set forth herein and will apply to any Covered Services performed by Contractor and its subcontractors.",
+          "label": "",
+          "index": 21
+        },
+        {
+          "text": "Wage Rates. The latest prevailing wage rates for private employment on public contracts as determined by the San Francisco Board of Supervisors and the Director of the California Department of Industrial Relations, as such prevailing wage rates may be changed during the term of this Agreement, are hereby incorporated as provisions of this Agreement. Copies of the prevailing wage rates as fixed and determined by the Board of Supervisors are available from the Office of Labor Standards and Enforcement (“OLSE”) and are also available on the Internet at http://www.dir.ca.gov/DLSR/PWD. Contractor agrees that it shall pay not less than the prevailing wage rates, as fixed and determined by the Board, to all workers employed by Contractor who perform Covered Services under this Agreement. Contractor further agrees as follows:",
+          "label": "3.6.2",
+          "index": 22
+        },
+        {
+          "text": "Subcontract Requirements. As required by Section 6.22(e)(5) of the Administrative Code, Contractor shall insert in every subcontract or other arrangement, which it may make for the performance of Covered Services under this Agreement, a provision that said subcontractor shall pay to all persons performing labor in connection with Covered Services under said subcontract or other arrangement not less than the highest general prevailing rate of wages as fixed and determined by the Board of Supervisors for such labor or services.",
+          "label": "3.6.3",
+          "index": 23
+        },
+        {
+          "text": "Posted Notices. As required by Section 1771.4 of the California Labor Code, Contractor shall post job site notices prescribed by the California Department of Industrial Relations (\"DIR\") at all job sites where Covered Services are to be performed.",
+          "label": "3.6.4",
+          "index": 24
+        },
+        {
+          "text": "Payroll Records. As required by Section 6.22(e)(6) of the Administrative Code and Section 1776 of the California Labor Code, Contractor shall keep or cause to be kept complete and accurate payroll records for all trade workers performing Covered Services. Such records shall include the name, address and social security number of each worker who provided Covered Services on the project, including apprentices, his or her classification, a general description of the services each worker performed each day, the rate of pay (including rates of contributions for, or costs assumed to provide fringe benefits), daily and weekly number of hours worked, deductions made and actual wages paid. Every subcontractor who shall undertake the performance of any part of Covered Services shall keep a like record of each person engaged in the execution of Covered Services under the subcontract. All such records shall at all times be available for inspection of and examination by the City and its authorized representatives and the DIR.",
+          "label": "3.6.5",
+          "index": 25
+        },
+        {
+          "text": "Certified Payrolls. Certified payrolls shall be prepared pursuant to Administrative Code Section 6.22(e)(6) and California Labor Code Section 1776 for the period involved for all employees, including those of subcontractors, who performed labor in connection with Covered Services. Contractor and each subcontractor performing Covered Services shall submit certified payrolls to the City and to the DIR electronically. Contractor shall submit payrolls to the City via the reporting system selected by the City. The DIR will specify how to submit certified payrolls to it. The City will provide basic training in the use of the reporting system at a scheduled training session. Contractor and all subcontractors that will perform Covered Services must attend the training session. Contractor and applicable subcontractors shall comply with electronic certified payroll requirements (including training) at no additional cost to the City.",
+          "label": "3.6.6",
+          "index": 26
+        },
+        {
+          "text": "Compliance Monitoring. Covered Services to be performed under this Agreement are subject to compliance monitoring and enforcement of prevailing wage requirements by the DIR and /or the OLSE. Contractor and any subcontractors performing Covered Services will cooperate fully with the DIR and/or the OLSE and other City employees and agents authorized to assist in the administration and enforcement of the prevailing wage requirements, and agrees to take the specific steps and actions as required by Section 6.22(e)(7) of the Administrative Code. Steps and actions include but are not limited to requirements that:",
+          "label": "3.6.7",
+          "index": 27
+        },
+        {
+          "text": "the Contractor will cooperate fully with the Labor Standards Enforcement Officer and other City employees and agents authorized to assist in the administration and enforcement of the Prevailing Wage requirements and other labor standards imposed on Public Works Contractor by the Charter and Chapter 6 of the San Francisco Administrative Code; (B) the Contractor agrees that the Labor Standards Enforcement Officer and his or her designees, in the performance of their duties, shall have the right to engage in random inspections of job sites and to have access to the employees of the Contractor, employee time sheets, inspection logs, payroll records and employee paychecks; (C) the contractor shall maintain a sign-in and sign-out sheet showing which employees are present on the job site; (D) the Contractor shall prominently post at each job-site a sign informing employees that the project is subject to the City's Prevailing Wage requirements and that these requirements are enforced by the Labor Standards Enforcement Officer; and (E) that the Labor Standards Enforcement Officer may audit such records of the Contractor as he or she reasonably deems necessary to determine compliance with the Prevailing Wage and other labor standards imposed by the Charter and this Chapter on Public Works Contractors. Failure to comply with these requirements may result in penalties and forfeitures consistent with analogous provisions of the California Labor Code, including Section 1776(g), as amended from time to time.",
+          "label": "(A)",
+          "index": 28
+        },
+        {
+          "text": "Remedies. Should Contractor, or any subcontractor who shall undertake the performance of any Covered Services, fail or neglect to pay to the persons who perform Covered Services under this Contract, subcontract or other arrangement for the Covered Services, the general prevailing rate of wages as herein specified, Contractor shall forfeit, and in the case of any subcontractor so failing or neglecting to pay said wage, Contractor and the subcontractor shall jointly and severally forfeit, back wages due plus the penalties set forth in Administrative Code Section 6.22 (e) and/or California Labor Code Section 1775. The City, when certifying any payment which may become due under the terms of this Agreement, shall deduct from the amount that would otherwise be due on such payment the amount of said forfeiture.",
+          "label": "3.6.8",
+          "index": 29
+        }
+      ]
+    },
+    {
+      "title": "Services and Resources",
+      "number": "4",
+      "clauses": [
+        {
+          "text": "Article 4 Services and Resources",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Services Contractor Agrees to Perform. Contractor agrees to perform the Services provided for in Appendix A, “Scope of Services.\" Officers and employees of the City are not authorized to request, and the City is not required to reimburse the Contractor for, Services beyond the Scope of Services listed in Appendix A, unless Appendix A is modified as provided in Section 11.5, \"Modification of this Agreement.\"",
+          "label": "4.1",
+          "index": 1
+        },
+        {
+          "text": "Qualified Personnel. Contractor shall utilize only competent personnel under the supervision of, and in the employment of, Contractor (or Contractor's authorized subcontractors) to perform the Services. Contractor will comply with City’s reasonable requests regarding assignment and/or removal of personnel, but all personnel, including those assigned at City’s request, must be supervised by Contractor. Contractor shall commit adequate resources to allow timely completion within the project schedule specified in this Agreement.",
+          "label": "4.2",
+          "index": 2
+        },
+        {
+          "text": "Subcontracting.",
+          "label": "4.3",
+          "index": 3
+        },
+        {
+          "text": "Contractor may subcontract portions of the Services only upon prior written approval of City. Contractor is responsible for its subcontractors throughout the course of the work required to perform the Services. All Subcontracts must incorporate the terms of Article 10 “Additional Requirements Incorporated by Reference” of this Agreement, unless inapplicable. Neither Party shall, on the basis of this Agreement, contract on behalf of, or in the name of, the other Party. Any agreement made in violation of this provision shall be null and void.",
+          "label": "4.3.1",
+          "index": 4
+        },
+        {
+          "text": "City's execution of this Agreement constitutes its approval of the subcontractors listed below.",
+          "label": "4.3.2",
+          "index": 5
+        },
+        {
+          "text": "Independent Contractor; Payment of Employment Taxes and Other Expenses.",
+          "label": "4.4",
+          "index": 6
+        },
+        {
+          "text": "Independent Contractor. For the purposes of this Article 4, \"Contractor\" shall be deemed to include not only Contractor, but also any agent or employee of Contractor. Contractor acknowledges and agrees that at all times, Contractor or any agent or employee of Contractor shall be deemed at all times to be an independent contractor and is wholly responsible for the manner in which it performs the services and work requested by City under this Agreement. Contractor, its agents, and employees will not represent or hold themselves out to be employees of the City at any time. Contractor or any agent or employee of Contractor shall not have employee status with City, nor be entitled to participate in any plans, arrangements, or distributions by City pertaining to or in connection with any retirement, health or other benefits that City may offer its employees. Contractor or any agent or employee of Contractor is liable for the acts and omissions of itself, its employees and its agents. Contractor shall be responsible for all obligations and payments, whether imposed by federal, state or local law, including, but not limited to, FICA, income tax withholdings, unemployment compensation, insurance, and other similar responsibilities related to Contractor’s performing services and work, or any agent or employee of Contractor providing same. Nothing in this Agreement shall be construed as creating an employment or agency relationship between City and Contractor or any agent or employee of Contractor. Any terms in this Agreement referring to direction from City shall be construed as providing for direction as to policy and the result of Contractor’s work only, and not as to the means by which such a result is obtained. City does not retain the right to control the means or the method by which Contractor performs work under this Agreement. Contractor agrees to maintain and make available to City, upon request and during regular business hours, accurate books and accounting records demonstrating Contractor’s compliance with this section. Should City determine that Contractor, or any agent or employee of Contractor, is not performing in accordance with the requirements of this Agreement, City shall provide Contractor with written notice of such failure. Within five (5) business days of Contractor’s receipt of such notice, and in accordance with Contractor policy and procedure, Contractor shall remedy the deficiency. Notwithstanding, if City believes that an action of Contractor, or any agent or employee of Contractor, warrants immediate remedial action by Contractor, City shall contact Contractor and provide Contractor in writing with the reason for requesting such immediate action.",
+          "label": "4.4.1",
+          "index": 7
+        },
+        {
+          "text": "Payment of Employment Taxes and Other Expenses. Should City, in its discretion, or a relevant taxing authority such as the Internal Revenue Service or the State Employment Development Division, or both, determine that Contractor is an employee for purposes of collection of any employment taxes, the amounts payable under this Agreement shall be reduced by amounts equal to both the employee and employer portions of the tax due (and offsetting any credits for amounts already paid by Contractor which can be applied against this liability). City shall then forward those amounts to the relevant taxing authority. Should a relevant taxing authority determine a liability for past services performed by Contractor for City, upon notification of such fact by City, Contractor shall promptly remit such amount due or arrange with City to have the amount due withheld from future payments to Contractor under this Agreement (again, offsetting any amounts already paid by Contractor which can be applied as a credit against such liability). A determination of employment status pursuant to the preceding two paragraphs shall be solely for the purposes of the particular tax in question, and for all other purposes of this Agreement, Contractor shall not be considered an employee of City. Notwithstanding the foregoing, Contractor agrees to indemnify and save harmless City and its officers, agents and employees from, and, if requested, shall defend them against any and all claims, losses, costs, damages, and expenses, including attorneys’ fees, arising from this section.",
+          "label": "4.4.2",
+          "index": 8
+        },
+        {
+          "text": "Assignment. The Services to be performed by Contractor are personal in character and neither this Agreement nor any duties or obligations hereunder may be assigned or delegated by Contractor unless first approved by City by written instrument executed and approved in the same manner as this Agreement. Any purported assignment made in violation of this provision shall be null and void.",
+          "label": "4.5",
+          "index": 9
+        },
+        {
+          "text": "Warranty. Contractor warrants to City that the Services will be performed with the degree of skill and care that is required by current, good and sound professional procedures and practices, and in conformance with generally accepted professional standards prevailing at the time the Services are performed so as to ensure that all Services performed are correct and appropriate for the purposes contemplated in this Agreement.",
+          "label": "4.6",
+          "index": 10
+        },
+        {
+          "text": "Liquidated Damages. By entering into this Agreement, Contractor agrees that in the event the Services are delayed beyond the scheduled milestones and timelines as provided in Appendix A, City will suffer actual damages that will be impractical or extremely difficult to determine. Contractor agrees that the sum of [insert whole dollar amount in words and numbers -- no pennies and no “.00”] per calendar day for each day of delay beyond scheduled milestones and timelines is not a penalty, but is a reasonable estimate of the loss that City will incur based on the delay, established in light of the circumstances existing at the time this Agreement was awarded. City may deduct a sum representing the liquidated damages from any money due to Contractor under this Agreement or any other contract between City and Contractor. Such deductions shall not be considered a penalty, but rather agreed upon monetary damages sustained by City because of Contractor’s failure to furnish deliverables to City within the time fixed or such extensions of time permitted in writing by City.",
+          "label": "4.7",
+          "index": 11
+        },
+        {
+          "text": "Bonding Requirements. The Contractor is required to furnish a performance bond on the form in a form acceptable to the City, in a sum of not less than [insert bonding level] of the annual amount of the contract to guarantee the faithful performance of this contract. The bond must be approved as to sufficiency and qualifications of the surety by the Controller.",
+          "label": "4.8",
+          "index": 12
+        }
+      ]
+    },
+    {
+      "title": "Insurance and Indemnity",
+      "number": "5",
+      "clauses": [
+        {
+          "text": "Article 5 Insurance and Indemnity",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Insurance.",
+          "label": "5.1",
+          "index": 1
+        },
+        {
+          "text": "Required Coverages. Without in any way limiting Contractor’s liability pursuant to the “Indemnification” section of this Agreement, Contractor must maintain in force, during the full term of the Agreement, insurance in the following amounts and coverages:",
+          "label": "5.1.1",
+          "index": 2
+        },
+        {
+          "text": "Workers’ Compensation, in statutory amounts, with Employers’ Liability Limits not less than $1,000,000 each accident, injury, or illness; and",
+          "label": "(a)",
+          "index": 3
+        },
+        {
+          "text": "Commercial General Liability Insurance with limits not less than $1,000,000 each occurrence for Bodily Injury and Property Damage, including Contractual Liability, Personal Injury, Products and Completed Operations; and Commercial General Liability Insurance with limits not less than $1,000,000 each occurrence for Bodily Injury and Property Damage, including Contractual Liability, Personal Injury, Products and Completed Operations; policy must include Abuse and Molestation coverage.",
+          "label": "(b)",
+          "index": 4
+        },
+        {
+          "text": "Commercial Automobile Liability Insurance with limits not less than $1,000,000 each occurrence, “Combined Single Limit” for Bodily Injury and Property Damage, including Owned, Non-Owned and Hired auto coverage, as applicable.",
+          "label": "(c)",
+          "index": 5
+        },
+        {
+          "text": "Professional liability insurance, applicable to Contractor’s profession, with limits not less than $1,000,000 each claim with respect to negligent acts, errors or omissions in connection with the Services.",
+          "label": "(d)",
+          "index": 6
+        },
+        {
+          "text": "Technology Errors and Omissions Liability coverage, with limits of $1,000,000 each occurrence and each loss. The policy shall at a minimum cover professional misconduct or lack of the requisite skill required for the performance of services defined in the contract and shall also provide coverage for the following risks:",
+          "label": "(e)",
+          "index": 7
+        },
+        {
+          "text": "Network security liability arising from the unauthorized access to, use of, or tampering with computers or computer systems, including hacker attacks; and",
+          "label": "(i)",
+          "index": 8
+        },
+        {
+          "text": "Liability arising from the introduction of any form of malicious software including computer viruses into, or otherwise causing damage to the City’s or third person’s computer, computer system, network, or similar computer related property and the data, software, and programs thereon.",
+          "label": "(ii)",
+          "index": 9
+        },
+        {
+          "text": "Contractor shall maintain in force during the full life of the agreement Cyber and Privacy Insurance with limits of not less than $1,000,000 per occurrence. Such insurance shall include coverage for liability arising from theft, dissemination, and/or use of confidential information, including but not limited to, bank and credit card account information or personal information, such as name, address, social security numbers, protected health information or other personally identifying information, stored or transmitted in electronic form.",
+          "label": "(f)",
+          "index": 10
+        },
+        {
+          "text": "Commercial General Liability and Commercial Automobile Liability Insurance policies must be endorsed to provide:",
+          "label": "5.1.2",
+          "index": 11
+        },
+        {
+          "text": "Name as Additional Insured the City and County of San Francisco, its Officers, Agents, and Employees.",
+          "label": "(a)",
+          "index": 12
+        },
+        {
+          "text": "That such policies are primary insurance to any other insurance available to the Additional Insureds, with respect to any claims arising out of this Agreement, and that insurance applies separately to each insured against whom claim is made or suit is brought.",
+          "label": "(b)",
+          "index": 13
+        },
+        {
+          "text": "All policies shall be endorsed to provide thirty (30) days’ advance written notice to the City of cancellation for any reason, intended non-renewal, or reduction in coverages. Notices shall be sent to the City address set forth in Section 11.1, entitled “Notices to the Parties.”",
+          "label": "5.1.3",
+          "index": 14
+        },
+        {
+          "text": "Should any of the required insurance be provided under a claims-made form, Contractor shall maintain such coverage continuously throughout the term of this Agreement and, without lapse, for a period of three years beyond the expiration of this Agreement, to the effect that, should occurrences during the contract term give rise to claims made after expiration of the Agreement, such claims shall be covered by such claims-made policies.",
+          "label": "5.1.4",
+          "index": 15
+        },
+        {
+          "text": "Should any of the required insurance be provided under a form of coverage that includes a general annual aggregate limit or provides that claims investigation or legal defense costs be included in such general annual aggregate limit, such general annual aggregate limit shall be double the occurrence or claims limits specified above.",
+          "label": "5.1.5",
+          "index": 16
+        },
+        {
+          "text": "Should any required insurance lapse during the term of this Agreement, requests for payments originating after such lapse shall not be processed until the City receives satisfactory evidence of reinstated coverage as required by this Agreement, effective as of the lapse date. If insurance is not reinstated, the City may, at its sole option, terminate this Agreement effective on the date of such lapse of insurance.",
+          "label": "5.1.6",
+          "index": 17
+        },
+        {
+          "text": "Before commencing any Services, Contractor shall furnish to City certificates of insurance and additional insured policy endorsements with insurers with ratings comparable to A-, VIII or higher, that are authorized to do business in the State of California, and that are satisfactory to City, in form evidencing all coverages set forth above. Approval of the insurance by City shall not relieve or decrease Contractor's liability hereunder.",
+          "label": "5.1.7",
+          "index": 18
+        },
+        {
+          "text": "The Workers’ Compensation policy(ies) shall be endorsed with a waiver of subrogation in favor of the City for all work performed by the Contractor, its employees, agents and subcontractors.",
+          "label": "5.1.8",
+          "index": 19
+        },
+        {
+          "text": "If Contractor will use any subcontractor(s) to provide Services, Contractor shall require the subcontractor(s) to provide all necessary insurance and to name the City and County of San Francisco, its officers, agents and employees and the Contractor as additional insureds.",
+          "label": "5.1.9",
+          "index": 20
+        },
+        {
+          "text": "Notwithstanding the foregoing, the following insurance requirements are waived or modified in accordance with the terms and conditions stated in Appendix C. Insurance.",
+          "label": "5.1.10",
+          "index": 21
+        },
+        {
+          "text": "Indemnification. Contractor shall indemnify and hold harmless City and its officers, agents and employees from, and, if requested, shall defend them from and against any and all claims, demands, losses, damages, costs, expenses, and liability (legal, contractual, or otherwise) arising from or in any way connected with any: (i) injury to or death of a person, including employees of City or Contractor; (ii) loss of or damage to property; (iii) violation of local, state, or federal common law, statute or regulation, including but not limited to privacy or personally identifiable information, health information, disability and labor laws or regulations;",
+          "label": "5.2",
+          "index": 22
+        },
+        {
+          "text": "strict liability imposed by any law or regulation; or (v) losses arising from Contractor's execution of subcontracts not in accordance with the requirements of this Agreement applicable to subcontractors; so long as such injury, violation, loss, or strict liability (as set forth in subsections (i) – (v) above) arises directly or indirectly from Contractor’s performance of this Agreement, including, but not limited to, Contractor’s use of facilities or equipment provided by City or others, regardless of the negligence of, and regardless of whether liability without fault is imposed or sought to be imposed on City, except to the extent that such indemnity is void or otherwise unenforceable under applicable law, and except where such loss, damage, injury, liability or claim is the result of the active negligence or willful misconduct of City and is not contributed to by any act of, or by any omission to perform some duty imposed by law or agreement on Contractor, its subcontractors, or either’s agent or employee. The foregoing indemnity shall include, without limitation, reasonable fees of attorneys, consultants and experts and related costs and City’s costs of investigating any claims against the City. In addition to Contractor’s obligation to indemnify City, Contractor specifically acknowledges and agrees that it has an immediate and independent obligation to defend City from any claim which actually or potentially falls within this indemnification provision, even if the allegations are or may be groundless, false or fraudulent, which obligation arises at the time such claim is tendered to Contractor by City and continues at all times thereafter. Contractor shall indemnify and hold City harmless from all loss and liability, including attorneys’ fees, court costs and all other litigation expenses for any infringement of the patent rights, copyright, trade secret or any other proprietary right or trademark, and all other intellectual property claims of any person or persons arising directly or indirectly from the receipt by City, or any of its officers or agents, of Contractor's Services.",
+          "label": "(iv)",
+          "index": 23
+        },
+        {
+          "text": "Indemnification For Design Professionals. To the fullest extent permitted by law, Contractor shall assume the defense of (with legal counsel subject to approval of the City), indemnify and save harmless the City, its boards, commissions, officers, and employees (collectively \"Indemnitees\"), from and against any and all claims, loss, cost, damage, injury (including, without limitation, injury to or death of an employee of the Contractor or its subconsultants), expense and liability of every kind, nature, and description (including, without limitation, incidental and consequential damages, court costs, attorneys' fees, litigation expenses, fees of expert consultants or witnesses in litigation, and costs of investigation), that arise out of, pertain to, or relate to, directly or indirectly, in whole or in part, the negligence, recklessness, or willful misconduct of the Contractor, any subconsultant, anyone directly or indirectly employed by them, or anyone that they control (collectively, \"Liabilities\").",
+          "label": "5.3",
+          "index": 24
+        },
+        {
+          "text": "Limitations. No insurance policy covering the Contractor's performance under this Agreement shall operate to limit the Contractor's Liabilities under this provision. Nor shall the amount of insurance coverage operate to limit the extent of such Liabilities. The Contractor assumes no liability whatsoever for the sole negligence, active negligence, or willful misconduct of any Indemnitee or the contractors of any Indemnitee.",
+          "label": "5.3.1",
+          "index": 25
+        },
+        {
+          "text": "Copyright Infringement. Contractor shall also indemnify, defend and hold harmless all Indemnitees from all suits or claims for infringement of the patent rights, copyright, trade secret, trade name, trademark, service mark, or any other proprietary right of any person or persons in consequence of the use by the City, or any of its boards, commissions, officers, or employees of articles, work or deliverables supplied in the performance of Services. Infringement of patent rights, copyrights, or other proprietary rights in the performance of this Agreement, if not the basis for indemnification under the law, shall nevertheless be considered a material breach of contract.",
+          "label": "5.3.2",
+          "index": 26
+        }
+      ]
+    },
+    {
+      "title": "Liability of the Parties",
+      "number": "6",
+      "clauses": [
+        {
+          "text": "Article 6 Liability of the Parties",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Liability of City. CITY’S PAYMENT OBLIGATIONS UNDER THIS AGREEMENT SHALL BE LIMITED TO THE PAYMENT OF THE COMPENSATION PROVIDED FOR IN SECTION 3.3.1, “PAYMENT,” OF THIS AGREEMENT. NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, IN NO EVENT SHALL CITY BE LIABLE, REGARDLESS OF WHETHER ANY CLAIM IS BASED ON CONTRACT OR TORT, FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT OR INCIDENTAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SERVICES PERFORMED IN CONNECTION WITH THIS AGREEMENT.",
+          "label": "6.1",
+          "index": 1
+        },
+        {
+          "text": "Liability for Use of Equipment. City shall not be liable for any damage to persons or property as a result of the use, misuse or failure of any equipment used by Contractor, or any of its subcontractors, or by any of their employees, even though such equipment is furnished, rented or loaned by City.",
+          "label": "6.2",
+          "index": 2
+        },
+        {
+          "text": "Liability for Incidental and Consequential Damages. Contractor shall be responsible for incidental and consequential damages resulting in whole or in part from Contractor’s acts or omissions.",
+          "label": "6.3",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "title": "Payment of Taxes",
+      "number": "7",
+      "clauses": [
+        {
+          "text": "Article 7 Payment of Taxes",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Except for any applicable California sales and use taxes charged by Contractor to City, Contractor shall pay all taxes, including possessory interest taxes levied upon or as a result of this Agreement, or the Services delivered pursuant hereto. Contractor shall remit to the State of California any sales or use taxes paid by City to Contractor under this Agreement. Contractor agrees to promptly provide information requested by the City to verify Contractor's compliance with any State requirements for reporting sales and use tax paid by City under this Agreement.",
+          "label": "7.1",
+          "index": 1
+        },
+        {
+          "text": "Contractor acknowledges that this Agreement may create a “possessory interest” for property tax purposes. Generally, such a possessory interest is not created unless the Agreement entitles the Contractor to possession, occupancy, or use of City property for private gain. If such a possessory interest is created, then the following shall apply:",
+          "label": "7.2",
+          "index": 2
+        },
+        {
+          "text": "Contractor, on behalf of itself and any permitted successors and assigns, recognizes and understands that Contractor, and any permitted successors and assigns, may be subject to real property tax assessments on the possessory interest.",
+          "label": "7.2.1",
+          "index": 3
+        },
+        {
+          "text": "Contractor, on behalf of itself and any permitted successors and assigns, recognizes and understands that the creation, extension, renewal, or assignment of this Agreement may result in a “change in ownership” for purposes of real property taxes, and therefore may result in a revaluation of any possessory interest created by this Agreement. Contractor accordingly agrees on behalf of itself and its permitted successors and assigns to report on behalf of the City to the County Assessor the information required by Revenue and Taxation Code section 480.5, as amended from time to time, and any successor provision.",
+          "label": "7.2.2",
+          "index": 4
+        },
+        {
+          "text": "Contractor, on behalf of itself and any permitted successors and assigns, recognizes and understands that other events also may cause a change of ownership of the possessory interest and result in the revaluation of the possessory interest. (see, e.g., Rev. & Tax. Code section 64, as amended from time to time). Contractor accordingly agrees on behalf of itself and its permitted successors and assigns to report any change in ownership to the County Assessor, the State Board of Equalization or other public agency as required by law.",
+          "label": "7.2.3",
+          "index": 5
+        },
+        {
+          "text": "Contractor further agrees to provide such other information as may be requested by the City to enable the City to comply with any reporting requirements for possessory interests that are imposed by applicable law.",
+          "label": "7.2.4",
+          "index": 6
+        }
+      ]
+    },
+    {
+      "title": "Termination and Default",
+      "number": "8",
+      "clauses": [
+        {
+          "text": "Article 8 Termination and Default",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Termination for Convenience",
+          "label": "8.1",
+          "index": 1
+        },
+        {
+          "text": "City shall have the option, in its sole discretion, to terminate this Agreement, at any time during the term hereof, for convenience and without cause. City shall exercise this option by giving Contractor written notice of termination. The notice shall specify the date on which termination shall become effective.",
+          "label": "8.1.1",
+          "index": 2
+        },
+        {
+          "text": "Upon receipt of the notice of termination, Contractor shall commence and perform, with diligence, all actions necessary on the part of Contractor to effect the termination of this Agreement on the date specified by City and to minimize the liability of Contractor and City to third parties as a result of termination. All such actions shall be subject to the prior approval of City. Such actions shall include, without limitation:",
+          "label": "8.1.2",
+          "index": 3
+        },
+        {
+          "text": "Halting the performance of all Services under this Agreement on the date(s) and in the manner specified by City.",
+          "label": "(a)",
+          "index": 4
+        },
+        {
+          "text": "Terminating all existing orders and subcontracts, and not placing any further orders or subcontracts for materials, Services, equipment or other items.",
+          "label": "(b)",
+          "index": 5
+        },
+        {
+          "text": "At City’s direction, assigning to City any or all of Contractor’s right, title, and interest under the orders and subcontracts terminated. Upon such assignment, City shall have the right, in its sole discretion, to settle or pay any or all claims arising out of the termination of such orders and subcontracts.",
+          "label": "(c)",
+          "index": 6
+        },
+        {
+          "text": "Subject to City’s approval, settling all outstanding liabilities and all claims arising out of the termination of orders and subcontracts.",
+          "label": "(d)",
+          "index": 7
+        },
+        {
+          "text": "Completing performance of any Services that City designates to be completed prior to the date of termination specified by City.",
+          "label": "(e)",
+          "index": 8
+        },
+        {
+          "text": "Taking such action as may be necessary, or as the City may direct, for the protection and preservation of any property related to this Agreement which is in the possession of Contractor and in which City has or may acquire an interest.",
+          "label": "(f)",
+          "index": 9
+        },
+        {
+          "text": "Within 30 days after the specified termination date, Contractor shall submit to City an invoice, which shall set forth each of the following as a separate line item:",
+          "label": "8.1.3",
+          "index": 10
+        },
+        {
+          "text": "The reasonable cost to Contractor, without profit, for all Services prior to the specified termination date, for which Services City has not already tendered payment. Reasonable costs may include a reasonable allowance for actual overhead, not to exceed a total of 10% of Contractor’s direct costs for Services. Any overhead allowance shall be separately itemized. Contractor may also recover the reasonable cost of preparing the invoice.",
+          "label": "(a)",
+          "index": 11
+        },
+        {
+          "text": "A reasonable allowance for profit on the cost of the Services described in the immediately preceding subsection (a), provided that Contractor can establish, to the satisfaction of City, that Contractor would have made a profit had all Services under this Agreement been completed, and provided further, that the profit allowed shall in no event exceed 5% of such cost.",
+          "label": "(b)",
+          "index": 12
+        },
+        {
+          "text": "The reasonable cost to Contractor of handling material or equipment returned to the vendor, delivered to the City or otherwise disposed of as directed by the City.",
+          "label": "(c)",
+          "index": 13
+        },
+        {
+          "text": "A deduction for the cost of materials to be retained by Contractor, amounts realized from the sale of materials and not otherwise recovered by or credited to City, and any other appropriate credits to City against the cost of the Services or other work.",
+          "label": "(d)",
+          "index": 14
+        },
+        {
+          "text": "In no event shall City be liable for costs incurred by Contractor or any of its subcontractors after the termination date specified by City, except for those costs specifically enumerated and described in Section 8.1.3. Such non-recoverable costs include, but are not limited to, anticipated profits on the Services under this Agreement, post-termination employee salaries, post-termination administrative expenses, post-termination overhead or unabsorbed overhead, attorneys’ fees or other costs relating to the prosecution of a claim or lawsuit, prejudgment interest, or any other expense which is not reasonable or authorized under Section 8.1.3.",
+          "label": "8.1.4",
+          "index": 15
+        },
+        {
+          "text": "In arriving at the amount due to Contractor under this Section, City may deduct: (i) all payments previously made by City for Services covered by Contractor’s final invoice; (ii) any claim which City may have against Contractor in connection with this Agreement; (iii) any invoiced costs or expenses excluded pursuant to the immediately preceding subsection 8.1.4; and (iv) in instances in which, in the opinion of the City, the cost of any Service performed under this Agreement is excessively high due to costs incurred to remedy or replace defective or rejected Services, the difference between the invoiced amount and City’s estimate of the reasonable cost of performing the invoiced Services in compliance with the requirements of this Agreement.",
+          "label": "8.1.5",
+          "index": 16
+        },
+        {
+          "text": "City’s payment obligation under this Section shall survive termination of this Agreement.",
+          "label": "8.1.6",
+          "index": 17
+        },
+        {
+          "text": "Termination for Default; Remedies.",
+          "label": "8.2",
+          "index": 18
+        },
+        {
+          "text": "Each of the following shall constitute an immediate event of default (“Event of Default”) under this Agreement:",
+          "label": "8.2.1",
+          "index": 19
+        },
+        {
+          "text": "Contractor fails or refuses to perform or observe any term, covenant or condition contained in any of the following Sections of this Agreement:",
+          "label": "(a)",
+          "index": 20
+        },
+        {
+          "text": "Submitting False Claims. 10.10 Alcohol and Drug-Free Workplace",
+          "label": "3.5",
+          "index": 21
+        },
+        {
+          "text": "Assignment 10.13 Working with Minors",
+          "label": "4.5",
+          "index": 22
+        }
+      ]
+    },
+    {
+      "title": "Insurance and Indemnity 11.10 Compliance with Laws",
+      "number": "5",
+      "clauses": [
+        {
+          "text": "Article 5 Insurance and Indemnity 11.10 Compliance with Laws",
+          "label": "",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "title": "Payment of Taxes 13.1 Nondisclosure of Private, Proprietary or",
+      "number": "7",
+      "clauses": [
+        {
+          "text": "Article 7 Payment of Taxes 13.1 Nondisclosure of Private, Proprietary or Confidential Information",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Contractor fails or refuses to perform or observe any other term, covenant or condition contained in this Agreement, including any obligation imposed by ordinance or statute and incorporated by reference herein, and such default continues for a period of ten days after written notice thereof from City to Contractor.",
+          "label": "(b)",
+          "index": 1
+        },
+        {
+          "text": "Contractor (i) is generally not paying its debts as they become due;",
+          "label": "(c)",
+          "index": 2
+        },
+        {
+          "text": "files, or consents by answer or otherwise to the filing against it of a petition for relief or reorganization or arrangement or any other petition in bankruptcy or for liquidation or to take advantage of any bankruptcy, insolvency or other debtors’ relief law of any jurisdiction; (iii) makes an assignment for the benefit of its creditors; (iv) consents to the appointment of a custodian, receiver, trustee or other officer with similar powers of Contractor or of any substantial part of Contractor’s property; or (v) takes action for the purpose of any of the foregoing.",
+          "label": "(ii)",
+          "index": 3
+        },
+        {
+          "text": "A court or government authority enters an order (i) appointing a custodian, receiver, trustee or other officer with similar powers with respect to Contractor or with respect to any substantial part of Contractor’s property, (ii) constituting an order for relief or approving a petition for relief or reorganization or arrangement or any other petition in bankruptcy or for liquidation or to take advantage of any bankruptcy, insolvency or other debtors’ relief law of any jurisdiction or (iii) ordering the dissolution, winding-up or liquidation of Contractor.",
+          "label": "(d)",
+          "index": 4
+        },
+        {
+          "text": "On and after any Event of Default, City shall have the right to exercise its legal and equitable remedies, including, without limitation, the right to terminate this Agreement or to seek specific performance of all or any part of this Agreement. In addition, where applicable, City shall have the right (but no obligation) to cure (or cause to be cured) on behalf of Contractor any Event of Default; Contractor shall pay to City on demand all costs and expenses incurred by City in effecting such cure, with interest thereon from the date of incurrence at the maximum rate then permitted by law. City shall have the right to offset from any amounts due to Contractor under this Agreement or any other agreement between City and Contractor: (i) all damages, losses, costs or expenses incurred by City as a result of an Event of Default; and (ii) any liquidated damages levied upon Contractor pursuant to the terms of this Agreement; and",
+          "label": "8.2.2",
+          "index": 5
+        },
+        {
+          "text": "(iii), any damages imposed by any ordinance or statute that is incorporated into this Agreement by reference, or into any other agreement with the City.",
+          "label": "",
+          "index": 6
+        },
+        {
+          "text": "All remedies provided for in this Agreement may be exercised individually or in combination with any other remedy available hereunder or under applicable laws, rules and regulations. The exercise of any remedy shall not preclude or in any way be deemed to waive any other remedy. Nothing in this Agreement shall constitute a waiver or limitation of any rights that City may have under applicable law.",
+          "label": "8.2.3",
+          "index": 7
+        },
+        {
+          "text": "Any notice of default must be sent by registered mail to the address set forth in Article 11.",
+          "label": "8.2.4",
+          "index": 8
+        },
+        {
+          "text": "Non-Waiver of Rights. The omission by either party at any time to enforce any default or right reserved to it, or to require performance of any of the terms, covenants, or provisions hereof by the other party at the time designated, shall not be a waiver of any such default or right to which the party is entitled, nor shall it in any way affect the right of the party to enforce such provisions thereafter.",
+          "label": "8.3",
+          "index": 9
+        },
+        {
+          "text": "Rights and Duties upon Termination or Expiration.",
+          "label": "8.4",
+          "index": 10
+        },
+        {
+          "text": "This Section and the following Sections of this Agreement listed below, shall survive termination or expiration of this Agreement:",
+          "label": "8.4.1",
+          "index": 11
+        },
+        {
+          "text": "Payment Limited to Satisfactory 9.1 Ownership of Results Services 3.3.7(a) Grant Funded Contracts - 9.2 Works for Hire Disallowance",
+          "label": "3.3.2",
+          "index": 12
+        },
+        {
+          "text": "Audit and Inspection of Records 11.6 Dispute Resolution Procedure",
+          "label": "3.4",
+          "index": 13
+        },
+        {
+          "text": "Submitting False Claims 11.7 Agreement Made in California; Venue",
+          "label": "3.5",
+          "index": 14
+        }
+      ]
+    },
+    {
+      "title": "Insurance and Indemnity 11.8 Construction",
+      "number": "5",
+      "clauses": [
+        {
+          "text": "Article 5 Insurance and Indemnity 11.8 Construction",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Liability of City 11.9 Entire Agreement",
+          "label": "6.1",
+          "index": 1
+        },
+        {
+          "text": "Liability for Incidental and 11.10 Compliance with Laws Consequential Damages",
+          "label": "6.3",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "Payment of Taxes 11.11 Severability",
+      "number": "7",
+      "clauses": [
+        {
+          "text": "Article 7 Payment of Taxes 11.11 Severability",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Payment Obligation 13.1 Nondisclosure of Private, Proprietary or Confidential Information",
+          "label": "8.1.6",
+          "index": 1
+        },
+        {
+          "text": "Subject to the survival of the Sections identified in Section 8.4.1, above, if this Agreement is terminated prior to expiration of the term specified in Article 2, this Agreement shall be of no further force or effect. Contractor shall transfer title to City, and deliver in the manner, at the times, and to the extent, if any, directed by City, any work in progress, completed work, supplies, equipment, and other materials produced as a part of, or acquired in connection with the performance of this Agreement, and any completed or partially completed work which, if this Agreement had been completed, would have been required to be furnished to City.",
+          "label": "8.4.2",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "Rights In Deliverables",
+      "number": "9",
+      "clauses": [
+        {
+          "text": "Article 9 Rights In Deliverables",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Ownership of Results. Any interest of Contractor or its subcontractors, in the Deliverables, including any drawings, plans, specifications, blueprints, studies, reports, memoranda, computation sheets, computer files and media or other documents prepared by Contractor or its subcontractors for the purposes of this agreement, shall become the property of and will be transmitted to City. However, unless expressly prohibited elsewhere in this Agreement, Contractor may retain and use copies for reference and as documentation of its experience and capabilities.",
+          "label": "9.1",
+          "index": 1
+        },
+        {
+          "text": "Works for Hire. If, in connection with Services, Contractor or its subcontractors creates Deliverables including, without limitation, artwork, copy, posters, billboards, photographs, videotapes, audiotapes, systems designs, software, reports, diagrams, surveys, blueprints, source codes, or any other original works of authorship, whether in digital or any other format, such works of authorship shall be works for hire as defined under Title 17 of the United States Code, and all copyrights in such works shall be the property of the City. If any Deliverables created by Contractor or its subcontractor(s) under this Agreement are ever determined not to be works for hire under U.S. law, Contractor hereby assigns all Contractor's copyrights to such Deliverables to the City, agrees to provide any material and execute any documents necessary to effectuate such assignment, and agrees to include a clause in every subcontract imposing the same duties upon subcontractor(s). With City's prior written approval, Contractor and its subcontractor(s) may retain and use copies of such works for reference and as documentation of their respective experience and capabilities.",
+          "label": "9.2",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "Additional Requirements Incorporated by Reference",
+      "number": "10",
+      "clauses": [
+        {
+          "text": "Article 10 Additional Requirements Incorporated by Reference",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Laws Incorporated by Reference. The full text of the laws listed in this Article 10, including enforcement and penalty provisions, are incorporated by reference into this Agreement. The full text of the San Francisco Municipal Code provisions incorporated by reference in this Article and elsewhere in the Agreement (\"Mandatory City Requirements\") are available at http://www.amlegal.com/codes/client/san-francisco_ca/ .",
+          "label": "10.1",
+          "index": 1
+        },
+        {
+          "text": "Conflict of Interest. By executing this Agreement, Contractor certifies that it does not know of any fact which constitutes a violation of Section 15.103 of the City’s Charter; Article III, Chapter 2 of City’s Campaign and Governmental Conduct Code; Title 9, Chapter 7 of the California Government Code (Section 87100 et seq.), or Title 1, Division 4, Chapter 1,",
+          "label": "10.2",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "of the California Government Code (Section 1090 et seq.), and further agrees promptly",
+      "number": "4",
+      "clauses": [
+        {
+          "text": "Article 4 of the California Government Code (Section 1090 et seq.), and further agrees promptly to notify the City if it becomes aware of any such fact during the term of this Agreement.",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Prohibition on Use of Public Funds for Political Activity. In performing the Services, Contractor shall comply with San Francisco Administrative Code Chapter 12G, which prohibits funds appropriated by the City for this Agreement from being expended to participate in, support, or attempt to influence any political campaign for a candidate or for a ballot measure. Contractor is subject to the enforcement and penalty provisions in Chapter 12G.",
+          "label": "10.3",
+          "index": 1
+        },
+        {
+          "text": "Reserved.",
+          "label": "10.4",
+          "index": 2
+        },
+        {
+          "text": "Nondiscrimination Requirements.",
+          "label": "10.5",
+          "index": 3
+        },
+        {
+          "text": "Non Discrimination in Contracts. Contractor shall comply with the provisions of Chapters 12B and 12C of the San Francisco Administrative Code. Contractor shall incorporate by reference in all subcontracts the provisions of Sections12B.2(a), 12B.2(c)-(k), and 12C.3 of the San Francisco Administrative Code and shall require all subcontractors to comply with such provisions. Contractor is subject to the enforcement and penalty provisions in Chapters 12B and 12C.",
+          "label": "10.5.1",
+          "index": 4
+        },
+        {
+          "text": "Nondiscrimination in the Provision of Employee Benefits. San Francisco Administrative Code 12B.2. Contractor does not as of the date of this Agreement, and will not during the term of this Agreement, in any of its operations in San Francisco, on real property owned by San Francisco, or where work is being performed for the City elsewhere in the United States, discriminate in the provision of employee benefits between employees with domestic partners and employees with spouses and/or between the domestic partners and spouses of such employees, subject to the conditions set forth in San Francisco Administrative Code Section12B.2.",
+          "label": "10.5.2",
+          "index": 5
+        },
+        {
+          "text": "Local Business Enterprise and Non-Discrimination in Contracting Ordinance. Contractor shall comply with all applicable provisions of Chapter 14B (\"LBE Ordinance\"). Contractor is subject to the enforcement and penalty provisions in Chapter 14B. Contractor shall utilize LBE Subcontractors for at least [enter percentage] of the Services except as otherwise authorized in writing by the Director of CMD. Contractor shall incorporate the requirements of the LBE Ordinance in each subcontract made in the fulfillment of Contractor’s LBE subcontracting commitments.",
+          "label": "10.6",
+          "index": 6
+        },
+        {
+          "text": "Minimum Compensation Ordinance. Contractor shall pay covered employees no less than the minimum compensation required by San Francisco Administrative Code Chapter 12P. Contractor is subject to the enforcement and penalty provisions in Chapter 12P. By signing and executing this Agreement, Contractor certifies that it is in compliance with Chapter 12P.",
+          "label": "10.7",
+          "index": 7
+        },
+        {
+          "text": "Health Care Accountability Ordinance. Contractor shall comply with San Francisco Administrative Code Chapter 12Q. Contractor shall choose and perform one of the Health Care Accountability options set forth in San Francisco Administrative Code Chapter 12Q.3. Contractor is subject to the enforcement and penalty provisions in Chapter 12Q. The requirements of Chapter 83 apply to: (a) entry level positions for work performed by a contractor in the City; (b) entry level positions for work performed on the contract in Alameda, San Francisco or San Mateo counties; (c) entry level positions for work performed on the contract on property owned by the City; and (d) entry level positions for work done under a permit authorization on a development project in the City. If the contract amount is $50,000 or less, then §10.9 should read “Reserved. (First Source Hiring Program.)” If the contract amount is more than $50,000, then you must call the First Source Hiring Administrator (415-701-4857) to review whether Chapter 83 will apply to the contract or is waived.",
+          "label": "10.8",
+          "index": 8
+        },
+        {
+          "text": "First Source Hiring Program. Contractor must comply with all of the provisions of the First Source Hiring Program, Chapter 83 of the San Francisco Administrative Code, that apply to this Agreement, and Contractor is subject to the enforcement and penalty provisions in Chapter 83.",
+          "label": "10.9",
+          "index": 9
+        },
+        {
+          "text": "Alcohol and Drug-Free Workplace. City reserves the right to deny access to, or require Contractor to remove from, City facilities personnel of any Contractor or subcontractor who City has reasonable grounds to believe has engaged in alcohol abuse or illegal drug activity which in any way impairs City's ability to maintain safe work facilities or to protect the health and well-being of City employees and the general public. City shall have the right of final approval for the entry or re-entry of any such person previously denied access to, or removed from, City facilities. Illegal drug activity means possessing, furnishing, selling, offering, purchasing, using or being under the influence of illegal drugs or other controlled substances for which the individual lacks a valid prescription. Alcohol abuse means possessing, furnishing, selling, offering, or using alcoholic beverages, or being under the influence of alcohol. Contractor agrees in the performance of this Agreement to maintain a drug-free workplace by notifying employees that unlawful drug use is prohibited and specifying what actions will be taken against employees for violations; establishing an on-going drug-free awareness program that includes employee notification and, as appropriate, rehabilitation. Contractor can comply with this requirement by implementing a drug-free workplace program that complies with the Federal Drug-Free Workplace Act of 1988 (41 U.S.C. § 701) [or California Drug-Free Workplace Act of 1990 Cal. Gov. Code, § 8350 et seq., if state funds involved].",
+          "label": "10.10",
+          "index": 10
+        },
+        {
+          "text": "Limitations on Contributions. By executing this Agreement, Contractor acknowledges that it is familiar with section 1.126 of the City’s Campaign and Governmental Conduct Code, which prohibits any person who contracts with the City for the rendition of personal services, for the furnishing of any material, supplies or equipment, for the sale or lease of any land or building, or for a grant, loan or loan guarantee, from making any campaign contribution to (1) an individual holding a City elective office if the contract must be approved by the individual, a board on which that individual serves, or the board of a state agency on which an appointee of that individual serves, (2) a candidate for the office held by such individual, or (3) a committee controlled by such individual, at any time from the commencement of negotiations for the contract until the later of either the termination of negotiations for such contract or six months after the date the contract is approved. The prohibition on contributions applies to each prospective party to the contract; each member of Contractor’s board of directors; Contractor’s chairperson, chief executive officer, chief financial officer and chief operating officer; any person with an ownership interest of more than 20 percent in Contractor; any subcontractor listed in the bid or contract; and any committee that is sponsored or controlled by Contractor. Contractor must inform each such person of the limitation on contributions imposed by Section 1.126 and provide the names of the persons required to be informed to City.",
+          "label": "10.11",
+          "index": 11
+        },
+        {
+          "text": "Slavery Era Disclosure. Contractor shall comply with San Francisco Administrative Code Chapter 12Y, San Francisco Slavery Era Disclosure Ordinance, including but not limited to Contractor's affirmative duty to research and disclose evidence of Contractor, its parent or subsidiary entity, or its Predecessor Company's Participation in the Slave Trade or receipt of Profits from the Slave Trade. Contractor is subject to the enforcement and penalty provisions in Chapter 12Y.",
+          "label": "10.12",
+          "index": 12
+        },
+        {
+          "text": "Working with Minors. In accordance with California Public Resources Code Section 5164, if Contractor, or any subcontractor, is providing services at a City park, playground, recreational center or beach, Contractor shall not hire, and shall prevent its subcontractors from hiring, any person for employment or a volunteer position in a position having supervisory or disciplinary authority over a minor if that person has been convicted of any offense listed in Public Resources Code Section 5164. In addition, if Contractor, or any subcontractor, is providing services to the City involving the supervision or discipline of minors or where Contractor, or any subcontractor, will be working with minors in an unaccompanied setting on more than an incidental or occasional basis, Contractor and any subcontractor shall comply with any and all applicable requirements under federal or state law mandating criminal history screening for such positions and/or prohibiting employment of certain persons including but not limited to California Penal Code Section 290.95. In the event of a conflict between this section and Section 10.14, “Consideration of Criminal History in Hiring and Employment Decisions,” of this Agreement, this section shall control.  Consult with the City Attorney’s Office regarding potential preemption issues. If Chapter 12T will not apply to a particular contract due to preemption or other nona pplicability, then delete the body text and replace with “Reserved. (Consideration of Criminal History in Hiring and Employment Decisions.)”. In the case of waiver, replace text with “Waived. (Consideration of Criminal History in Hiring and Employment Decisions)” if the requirement has been waived by the appropriate governing body.",
+          "label": "10.13",
+          "index": 13
+        },
+        {
+          "text": "Consideration of Criminal History in Hiring and Employment Decisions.",
+          "label": "10.14",
+          "index": 14
+        },
+        {
+          "text": "Contractor agrees to comply fully with and be bound by all of the provisions of Chapter 12T, “City Contractor/Subcontractor Consideration of Criminal History in Hiring and Employment Decisions,” of the San Francisco Administrative Code (“Chapter 12T”), including the remedies provided, and implementing regulations, as may be amended from time to time. The provisions of Chapter 12T are incorporated by reference and made a part of this Agreement as though fully set forth herein. The text of the Chapter 12T is available on the web at http://sfgov.org/olse/fco. Contractor is required to comply with all of the applicable provisions of 12T, irrespective of the listing of obligations in this Section. Capitalized terms used in this Section and not defined in this Agreement shall have the meanings assigned to such terms in Chapter 12T.",
+          "label": "10.14.1",
+          "index": 15
+        },
+        {
+          "text": "The requirements of Chapter 12T shall only apply to a Contractor’s or Subcontractor’s operations to the extent those operations are in furtherance of the performance of this Agreement, shall apply only to applicants and employees who would be or are performing work in furtherance of this Agreement, and shall apply when the physical location of the employment or prospective employment of an individual is wholly or substantially within the City of San Francisco. Chapter 12T shall not apply when the application in a particular context would conflict with federal or state law or with a requirement of a government agency implementing federal or state law.",
+          "label": "10.14.2",
+          "index": 16
+        },
+        {
+          "text": "Public Access to Nonprofit Records and Meetings. If Contractor receives a cumulative total per year of at least $250,000 in City funds or City-administered funds and is a non-profit organization as defined in Chapter 12L of the San Francisco Administrative Code, Contractor must comply with the City's Public Access to Nonprofit Records and Meetings requirements, as set forth in Chapter 12L of the San Francisco Administrative Code, including the remedies provided therein.",
+          "label": "10.15",
+          "index": 17
+        },
+        {
+          "text": "Food Service Waste Reduction Requirements. Contractor shall comply with the Food Service Waste Reduction Ordinance, as set forth in San Francisco Environment Code Chapter 16, including but not limited to the remedies for noncompliance provided therein.",
+          "label": "10.16",
+          "index": 18
+        },
+        {
+          "text": "Sugar-Sweetened Beverage Prohibition. Contractor agrees that it will not sell, provide, or otherwise distribute Sugar-Sweetened Beverages, as defined by San Francisco Administrative Code Chapter 101, as part of its performance of this Agreement.",
+          "label": "10.17",
+          "index": 19
+        },
+        {
+          "text": "Tropical Hardwood and Virgin Redwood Ban. Pursuant to San Francisco Environment Code Section 804(b), the City urges Contractor not to import, purchase, obtain, or use for any purpose, any tropical hardwood, tropical hardwood wood product, virgin redwood or virgin redwood wood product.",
+          "label": "10.18",
+          "index": 20
+        },
+        {
+          "text": "Contractor shall comply with San Francisco Environment Code Chapter 8, which provides that except as expressly permitted by the application of Sections 802(b) and 803(b) of the San Francisco Environment Code, Contractor shall not provide any items to the City in performance of this contract which are tropical hardwoods, tropical hardwood wood products, virgin redwood or virgin redwood wood products. Contractor is subject to the penalty and enforcement provisions of Chapter 8.",
+          "label": "10.18.1",
+          "index": 21
+        },
+        {
+          "text": "Preservative Treated Wood Products. Contractor shall comply with the provisions of San Francisco Environment Code Chapter 13, which requires that each Contractor purchasing preservative-treated wood products on behalf of the City, shall only purchase such products from the list of alternatives adopted by the Department of the Environment pursuant to",
+          "label": "10.19",
+          "index": 22
+        }
+      ]
+    },
+    {
+      "title": "of Chapter 13, unless otherwise granted an exemption by the terms of that Chapter",
+      "number": "1302",
+      "clauses": [
+        {
+          "text": "Section 1302 of Chapter 13, unless otherwise granted an exemption by the terms of that Chapter.",
+          "label": "",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "title": "General Provisions",
+      "number": "11",
+      "clauses": [
+        {
+          "text": "Article 11 General Provisions",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Notices to the Parties. Unless otherwise indicated in this Agreement, all written communications sent by the Parties may be by U.S. mail or e-mail, and shall be addressed as follows: To City: [insert name or title of department contact person, name of department, mailing address, and e-mail address] To Contractor: [insert name of contractor, mailing address, and e-mail address] Any notice of default must be sent by registered mail. Either Party may change the address to which notice is to be sent by giving written notice thereof to the other Party. If email notification is used, the sender must specify a receipt notice.",
+          "label": "11.1",
+          "index": 1
+        },
+        {
+          "text": "Compliance with Americans with Disabilities Act. Contractor shall provide the Services in a manner that complies with the Americans with Disabilities Act (ADA), including but not limited to Title II's program access requirements, and all other applicable federal, state and local disability rights legislation.",
+          "label": "11.2",
+          "index": 2
+        },
+        {
+          "text": "Reserved.",
+          "label": "11.3",
+          "index": 3
+        },
+        {
+          "text": "Sunshine Ordinance. Contractor acknowledges that this Agreement and all records related to its formation, Contractor's performance of Services, and City's payment are subject to the California Public Records Act, (California Government Code §6250 et. seq.), and the San Francisco Sunshine Ordinance, (San Francisco Administrative Code Chapter 67). Such records are subject to public inspection and copying unless exempt from disclosure under federal, state or local law.",
+          "label": "11.4",
+          "index": 4
+        },
+        {
+          "text": "Modification of this Agreement. This Agreement may not be modified, nor may compliance with any of its terms be waived, except as noted in Section 11.1, “Notices to Parties,” regarding change in personnel or place, and except by written instrument executed and approved in the same manner as this Agreement. [If the contract amount is $50,000 or more then add the following sentence:] Contractor shall cooperate with Department to submit to the Director of CMD any amendment, modification, supplement or change order that would result in a cumulative increase of the original amount of this Agreement by more than 20% (CMD Contract Modification Form).",
+          "label": "11.5",
+          "index": 5
+        },
+        {
+          "text": "Dispute Resolution Procedure.",
+          "label": "11.6",
+          "index": 6
+        },
+        {
+          "text": "Negotiation; Alternative Dispute Resolution. The Parties will attempt in good faith to resolve any dispute or controversy arising out of or relating to the performance of services under this Agreement. If the Parties are unable to resolve the dispute, then, pursuant to San Francisco Administrative Code Section 21.36, Contractor may submit to the Contracting Officer a written request for administrative review and documentation of the Contractor's claim(s). Upon such request, the Contracting Officer shall promptly issue an administrative decision in writing, stating the reasons for the action taken and informing the Contractor of its right to judicial review. If agreed by both Parties in writing, disputes may be resolved by a mutually agreed-upon alternative dispute resolution process. If the parties do not mutually agree to an alternative dispute resolution process or such efforts do not resolve the dispute, then either Party may pursue any remedy available under California law. The status of any dispute or controversy notwithstanding, Contractor shall proceed diligently with the performance of its obligations under this Agreement in accordance with the Agreement and the written directions of the City. Neither Party will be entitled to legal fees or costs for matters resolved under this section.",
+          "label": "11.6.1",
+          "index": 7
+        },
+        {
+          "text": "Government Code Claim Requirement. No suit for money or damages may be brought against the City until a written claim therefor has been presented to and rejected by the City in conformity with the provisions of San Francisco Administrative Code Chapter 10 and California Government Code Section 900, et seq. Nothing set forth in this Agreement shall operate to toll, waive or excuse Contractor's compliance with the California Government Code Claim requirements set forth in San Francisco Administrative Code Chapter 10 and California Government Code Section 900, et seq.",
+          "label": "11.6.2",
+          "index": 8
+        },
+        {
+          "text": "Health and Human Service Contract Dispute Resolution Procedure. The Parties shall resolve disputes that have not been resolved administratively by other departmental remedies in accordance with the Dispute Resolution Procedure set forth in Appendix [C/D/E - insert the appendix letter] incorporated herein by this reference.",
+          "label": "11.6.3",
+          "index": 9
+        },
+        {
+          "text": "Agreement Made in California; Venue. The formation, interpretation and performance of this Agreement shall be governed by the laws of the State of California. Venue for all litigation relative to the formation, interpretation and performance of this Agreement shall be in San Francisco.",
+          "label": "11.7",
+          "index": 10
+        },
+        {
+          "text": "Construction. All paragraph captions are for reference only and shall not be considered in construing this Agreement.",
+          "label": "11.8",
+          "index": 11
+        },
+        {
+          "text": "Entire Agreement. This contract sets forth the entire Agreement between the parties, and supersedes all other oral or written provisions. This Agreement may be modified only as provided in Section 11.5, “Modification of this Agreement.”",
+          "label": "11.9",
+          "index": 12
+        },
+        {
+          "text": "Compliance with Laws. Contractor shall keep itself fully informed of the City’s Charter, codes, ordinances and duly adopted rules and regulations of the City and of all state, and federal laws in any manner affecting the performance of this Agreement, and must at all times comply with such local codes, ordinances, and regulations and all applicable laws as they may be amended from time to time.",
+          "label": "11.10",
+          "index": 13
+        },
+        {
+          "text": "Severability. Should the application of any provision of this Agreement to any particular facts or circumstances be found by a court of competent jurisdiction to be invalid or unenforceable, then (a) the validity of other provisions of this Agreement shall not be affected or impaired thereby, and (b) such provision shall be enforced to the maximum extent possible so as to effect the intent of the parties and shall be reformed without further action by the parties to the extent necessary to make such provision valid and enforceable.",
+          "label": "11.11",
+          "index": 14
+        },
+        {
+          "text": "Cooperative Drafting. This Agreement has been drafted through a cooperative effort of City and Contractor, and both Parties have had an opportunity to have the Agreement reviewed and revised by legal counsel. No Party shall be considered the drafter of this Agreement, and no presumption or rule that an ambiguity shall be construed against the Party drafting the clause shall apply to the interpretation or enforcement of this Agreement.",
+          "label": "11.12",
+          "index": 15
+        },
+        {
+          "text": "Order of Precedence. Contractor agrees to perform the services described below in accordance with the terms and conditions of this Agreement, implementing task orders, the RFP, and Contractor's proposal dated [Insert Date of Proposal]. The RFP and Contractor's proposal are incorporated by reference as though fully set forth herein. Should there be a conflict of terms or conditions, this Agreement and any implementing task orders shall control over the RFP and the Contractor’s proposal.",
+          "label": "11.13",
+          "index": 16
+        },
+        {
+          "text": "Order of Precedence. Contractor agrees that in the event of discrepancy, inconsistency, gap, ambiguity, or conflicting language between the City’s terms and Contractor's printed terms attached, the City’s terms shall take precedence, followed by the procurement issued by the department, Contractor’s proposal, and Contractor’s printed terms, respectively.",
+          "label": "11.14",
+          "index": 17
+        }
+      ]
+    },
+    {
+      "title": "Department Specific Terms",
+      "number": "12",
+      "clauses": [
+        {
+          "text": "Article 12 Department Specific Terms",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Reserved.",
+          "label": "12.1",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "title": "Data and Security",
+      "number": "13",
+      "clauses": [
+        {
+          "text": "Article 13 Data and Security",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "Nondisclosure of Private, Proprietary or Confidential Information.",
+          "label": "13.1",
+          "index": 1
+        },
+        {
+          "text": "If this Agreement requires City to disclose \"Private Information\" to Contractor within the meaning of San Francisco Administrative Code Chapter 12M, Contractor and subcontractor shall use such information only in accordance with the restrictions stated in Chapter 12M and in this Agreement and only as necessary in performing the Services. Contractor is subject to the enforcement and penalty provisions in Chapter 12M.",
+          "label": "13.1.1",
+          "index": 2
+        },
+        {
+          "text": "In the performance of Services, Contractor may have access to City's proprietary or confidential information, the disclosure of which to third parties may damage City. If City discloses proprietary or confidential information to Contractor, such information must be held by Contractor in confidence and used only in performing the Agreement. Contractor shall exercise the same standard of care to protect such information as a reasonably prudent contractor would use to protect its own proprietary or confidential information.",
+          "label": "13.1.2",
+          "index": 3
+        },
+        {
+          "text": "Payment Card Industry (“PCI”) Requirements. Contractors providing services and products that handle, transmit or store cardholder data, are subject to the following requirements:",
+          "label": "13.2",
+          "index": 4
+        },
+        {
+          "text": "Applications shall be compliant with the Payment Application Data Security Standard (PA-DSS) and validated by a Payment Application Qualified Security Assessor (PA-QSA). A Contractor whose application has achieved PA-DSS certification must then be listed on the PCI Councils list of PA-DSS approved and validated payment applications.",
+          "label": "13.2.1",
+          "index": 5
+        },
+        {
+          "text": "Gateway providers shall have appropriate Payment Card Industry Data Security Standards (PCI DSS) certification as service providers (https://www.pcisecuritystandards.org/index.shtml). Compliance with the PCI DSS shall be achieved through a third party audit process. The Contractor shall comply with Visa Cardholder Information Security Program (CISP) and MasterCard Site Data Protection (SDP) programs.",
+          "label": "13.2.2",
+          "index": 6
+        },
+        {
+          "text": "For any Contractor that processes PIN Debit Cards, payment card devices supplied by Contractor shall be validated against the PCI Council PIN Transaction Security (PTS) program.",
+          "label": "13.2.3",
+          "index": 7
+        },
+        {
+          "text": "For items 13.2.1 to 13.2.3 above, Contractor shall provide a letter from their qualified security assessor (QSA) affirming their compliance and current PCI or PTS compliance certificate.",
+          "label": "13.2.4",
+          "index": 8
+        },
+        {
+          "text": "Contractor shall be responsible for furnishing City with an updated PCI compliance certificate 30 calendar days prior to its expiration.",
+          "label": "13.2.5",
+          "index": 9
+        },
+        {
+          "text": "Bank Accounts. Collections that represent funds belonging to the City and County of San Francisco shall be deposited, without detour to a third party’s bank account, into a City and County of San Francisco bank account designated by the Office of the Treasurer and Tax Collector.",
+          "label": "13.2.6",
+          "index": 10
+        },
+        {
+          "text": "Business Associate Agreement. With respect to information covered by the U.S. Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), a Business Associate Agreement (“BAA”) is attached as Appendix [Letter C/D/E etc.].",
+          "label": "13.3",
+          "index": 11
+        }
+      ]
+    },
+    {
+      "title": "MacBride And Signature",
+      "number": "14",
+      "clauses": [
+        {
+          "text": "Article 14 MacBride And Signature",
+          "label": "",
+          "index": 0
+        },
+        {
+          "text": "MacBride Principles - Northern Ireland. The provisions of San Francisco Administrative Code §12F are incorporated herein by this reference and made part of this Agreement. By signing this Agreement, Contractor confirms that Contractor has read and understood that the City urges companies doing business in Northern Ireland to resolve employment inequities and to abide by the MacBride Principles, and urges San Francisco companies to do business with corporations that abide by the MacBride Principles.",
+          "label": "14.1",
+          "index": 1
+        }
+      ]
+    }
+  ]
+}
